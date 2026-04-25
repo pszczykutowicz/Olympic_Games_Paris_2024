@@ -117,7 +117,7 @@ Dane pochodza z publicznego datasetu dostepnego na [Kaggle](https://www.kaggle.c
 
 ## Model danych
 
-Raport zbudowany jest na 11 tabelach polaczonych w mieszany schemat gwiazdy i platka sniegu, obejmujacych medalistow, medale, wyniki, zespoly, zawodnikow, trenerow, wydarzenia, obiekty, harmonogramy i trase sztafety ognia.
+Raport zbudowany jest na 11 tabelach polaczonych w mieszany schemat gwiazdy i platka sniegu, obejmujacych medalistow, medale, wyniki, zespoly, zawodnikow, trenerow, wydarzenia, obiekty, harmonogramy i trase znicza olimpijskiego.
 
 ---
 
@@ -170,7 +170,7 @@ SWITCH(
 ## Struktura raportu
 
 ### Paris 2024 - Main Page
-Mapa swiata z klasyfikacja medalowa krajow. Interaktywna tabela pokazujaca zlote, srebrne, brazowe i laczne medale. Drill-through do strony Country Statistic po kliknieciu w wiersz. Filtry: Kraj, Wydarzenie, Plec, Dyscyplina, Typ medalu.
+Mapa swiata z klasyfikacja medalowa krajow. Interaktywna tabela pokazujaca zlote, srebrne, brazowe i laczne medale. Drill-through do zakladki Country Statistic po kliknieciu w wiersz. Filtry: Kraj, Wydarzenie, Plec, Dyscyplina, Typ medalu.
 
 ### Country Statistic
 Szczegolowe statystyki dla wybranego kraju - karty KPI uzywajace zdeduplikowanych miar medalowych, pelna lista medalistow z dyscyplina i wydarzeniem, wykres slupkowy pokazujacy rozklad medali w dyscyplinach. Filtry: Dyscyplina, Wydarzenie, Plec, Typ medalu.
